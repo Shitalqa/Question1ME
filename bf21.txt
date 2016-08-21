@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 on branch2
+=======
+on featurebaranch2
+>>>>>>> feature2

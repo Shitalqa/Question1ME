@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 //on feature2 branch
 on master branch
+=======
+on master branch//for conflict
+>>>>>>> feature2
 for merge//add merge
